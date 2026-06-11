@@ -1,0 +1,6 @@
+{
+  "name": "Delta Harvest",
+  "description": "Private investor qualification, project governance and reporting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
